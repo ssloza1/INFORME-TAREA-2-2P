@@ -1,8 +1,8 @@
 # PRINCIPIOS CIRCUITOS ELETRONICOS FLOYD 
 
-## *CAPITULO 7 Y 8* 
+## *CAPITULO 9 Y 10* 
 
-### TEMA: Circuito en serie-paralelo, teorema de circuitos y conversiones 
+### TEMA: metodo de nodos lazos y ramas, electromagnetismo  
 
 ## 1. OBJETIVO:
 #### 1.1 OBJETIVO GENERAL: 
@@ -11,15 +11,33 @@
  
 #### 1.2 OBJETIVO ESPECIFICOS:
 
-•	  Analizar y diseñar circuitos  para lo cual permitirá describir de mejor manera y resolver por el metodo de ramas y lazos sus componentes y su funcionalidad partiendo de información proporcionada por el texto de Floyd.
+•	  Analizar y diseñar circuitos  para lo cual permitirá describir de mejor manera y resolver por el metodo de ramas y lazos y nodos sus componentes y su funcionalidad partiendo de información proporcionada por el texto de Floyd.
 
-•	  Realizar y Usar el metodo de nodos para lo cual se especifica la manera de resolución de los circuitos mediante el uso de texto de trabajo y resolucion de ejercicios. 
+•	  Realizar y Usar el eletromagnetismo en el entorno para lo cual se especifica la manera de resolución de los ejercicios propuestos mediante el uso de texto de trabajo y resolucion de ejercicios. 
 
 ## 2. MARCO TEORICO
 
+##CAPITULO 9
+
+![image](https://user-images.githubusercontent.com/105320981/177636159-cf0ff1f1-defc-4afd-a45c-24ecc769bb71.png)
+
+![image](https://user-images.githubusercontent.com/105320981/177636177-755af297-938e-4efe-8eb9-369add2b1133.png)
+
+![image](https://user-images.githubusercontent.com/105320981/177636189-79e88ec1-64e8-4472-9140-fac817a337dc.png)
+
+##CAPITULO 10
+
+![image](https://user-images.githubusercontent.com/105320981/177636455-437d2827-23c7-49d5-9b95-bd9a923abd93.png)
+
+![image](https://user-images.githubusercontent.com/105320981/177636844-44130404-3e9e-4180-98e0-b87b2ec8ccfc.png)
+
+![image](https://user-images.githubusercontent.com/105320981/177637180-140f2d60-eccc-4478-a8d3-003455391ef7.png)
+
+![image](https://user-images.githubusercontent.com/105320981/177636563-826ff192-61a4-4616-9375-c5869eb77a60.png)
+
 ## 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-##CAPITULO 7
+##CAPITULO 9
 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
 
 ![image](https://user-images.githubusercontent.com/105320981/177633346-91a4665d-0946-47ad-9b54-9e49f4534daa.png)
@@ -46,7 +64,7 @@
 
 ![image](https://user-images.githubusercontent.com/105320981/177634284-8f46a14f-878f-40c0-967b-2286d7621610.png)
 
-##CAPITULO 8
+##CAPITULO 10
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
 
 ![image](https://user-images.githubusercontent.com/105320981/177634406-8103e47c-3e32-45c6-8c44-50e8e0bc063c.png)
