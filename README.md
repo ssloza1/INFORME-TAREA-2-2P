@@ -168,6 +168,8 @@ de cd de salida a su pico (alcanza un máximo)?
 
 ## 4. VIDEO
 
+https://youtu.be/t8FT3XhiqOg
+
 ## 5.CONCLUSIONES
 •	Para la resolución de circuitos aplicando el metodode ramas se debe crear un sistema de ecuaciones los cuales se forman dando a cada espacio un nombre como una variable despues despejar las variables  obtener el resultado.
 •	para la resolución de ejercicios con el metodo de lazos es parecido al metodo de ramas se forma un sistema de ecuaciones se despejan las varibales y se obtienen los resultados.
